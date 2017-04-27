@@ -1,2 +1,4 @@
+Hello and
+Welcome to Jourdan Calaycay's Page
 
-![github image](images/atom-text-file.jpg)
+[My Hello World Repo](https://github.com/jourdanc/hello-world)
